@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson5hw</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_image_fragment">image fragment</string>
+    <string name="hello_date_fragment">data fragment</string>
+</resources>
